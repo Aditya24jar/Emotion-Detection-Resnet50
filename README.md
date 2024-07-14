@@ -98,9 +98,9 @@ The project highlights the journey from basic custom models to sophisticated tra
 ### Angry Image
 ![Angry Image](angry001.jpg)
 
-| ### Angry Image   | ### Surprise Image |
+| Angry Image | Surprise Image |
 |----------|-----------|
-| ![Angry Image](angry001.jpg)   | ![Surprise Image](surprise001.jpg)     |
+| <img src="angry001.jpg" width="48" height="48"> | <img src="surprise001.jpg" width="48" height="48"> |
 
 ### Surprise Image
 ![Surprise Image](surprise001.jpg)
