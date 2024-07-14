@@ -54,6 +54,9 @@ This project aims to detect emotions from images using deep learning techniques.
 - The architecture included adding custom dense layers on top of the pre-trained ResNet50 model.
 - The model was fine-tuned on the FER-2013 dataset.
 
+#### Model Architecture
+![Model Architecture](Final_Model.png)
+
 #### Significant Improvements
 - The ResNet50 model showed significant improvement in F1 scores for all classes.
 - The architecture and pre-trained weights of ResNet50 contributed to better feature extraction and classification.
