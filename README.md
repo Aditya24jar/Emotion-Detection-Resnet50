@@ -90,6 +90,21 @@ This project aims to detect emotions from images using deep learning techniques.
 
 The project highlights the journey from basic custom models to sophisticated transfer learning techniques. The ResNet50 model significantly outperformed the other approaches, demonstrating the value of deep learning and transfer learning in complex tasks like emotion detection. The classification report reflects the effectiveness of the ResNet50 model, with notable improvements in F1 scores across all emotion classes.
 
+## Results and Sample Predictions
+
+### Model Training
+![Model Training](Model_training.png)
+
+### Angry Image
+![Angry Image](angry001.jpg)
+
+### Surprise Image
+![Surprise Image](surprise001.jpg)
+
+### Prediction Output
+![Prediction Output](prediction.png)
+
+
 ## Future Work
 - **Further Data Augmentation**: Experiment with more advanced data augmentation techniques to improve performance on minority classes.
 - **Hyperparameter Tuning**: Perform extensive hyperparameter tuning to further enhance model accuracy and robustness.
