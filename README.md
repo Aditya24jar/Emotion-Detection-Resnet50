@@ -2,14 +2,6 @@
 
 This project aims to detect emotions from images using deep learning techniques. We explored four different approaches: a custom CNN model, a custom CNN model with data augmentation, transfer learning using VGG16, and transfer learning using ResNet50. Among these approaches, the ResNet50 model performed the best.
 
-## Project Structure
-
-- **Data Preparation and Exploration**
-- **Model Building**
-- **Training and Evaluation**
-- **Image Preprocessing**
-- **Prediction and Evaluation**
-- **Additional Utilities**
 
 ## Approaches and Results
 
