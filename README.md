@@ -98,6 +98,10 @@ The project highlights the journey from basic custom models to sophisticated tra
 ### Angry Image
 ![Angry Image](angry001.jpg)
 
+### Surprise Image           |  ### Angry Image
+:-------------------------:|:-------------------------:
+![Surprise Image](surprise001.jpg) |  ![Angry Image](angry001.jpg)
+
 ### Surprise Image
 ![Surprise Image](surprise001.jpg)
 
