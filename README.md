@@ -100,7 +100,7 @@ The project highlights the journey from basic custom models to sophisticated tra
 
 | Angry Image | Surprise Image |
 |----------|-----------|
-| <img src="angry001.jpg" width="48" height="48"> | <img src="surprise001.jpg" width="48" height="48"> |
+| <img src="angry001.jpg" width="200" height="200"> | <img src="surprise001.jpg" width="200" height="200"> |
 
 ### Surprise Image
 ![Surprise Image](surprise001.jpg)
