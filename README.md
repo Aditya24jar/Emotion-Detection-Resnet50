@@ -95,15 +95,9 @@ The project highlights the journey from basic custom models to sophisticated tra
 ### Model Training
 ![Model Training](Model_training.png)
 
-### Angry Image
-![Angry Image](angry001.jpg)
-
 | Angry Image | Surprise Image |
 |----------|-----------|
-| <img src="angry001.jpg" width="300" height="400"> | <img src="surprise001.jpg" width="300" height="400"> |
-
-### Surprise Image
-![Surprise Image](surprise001.jpg)
+| <img src="angry001.jpg" width="300" height="400"> | <img src="surprise001.jpg" width="400" height="400"> |
 
 ### Prediction Output
 ![Prediction Output](prediction.png)
